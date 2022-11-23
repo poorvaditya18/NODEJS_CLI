@@ -2,4 +2,6 @@
 
 ## HOW TO USE -> 
 
-## 
+### CLONE THE REPO 
+### OPEN COMMAND PROMPT / TERMINAL
+### TYPE : pb help
