@@ -46,10 +46,12 @@ switch (command) {
   case "organize":
     organizeObj.organizeKey(inputArr[1]);
     break;
+
   case "help":
     helpObj.helpKey();
     break;
-  default:
+  
+    default:
     console.log("Please Input Right Command !!");
     break;
 }

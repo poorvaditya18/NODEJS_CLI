@@ -10,7 +10,7 @@ function helpFn()
           ⚫ If you want tree structure of your directory
           cmnd : pb "DIR_PATH"
           ⚫ If you want to organize all your files - this will organize all your files based upon the extension of the fileName.
-          cmnd : pb organise "DIR_PATH" 
+          cmnd : pb organize "DIR_PATH" 
 
           Made with ❤️  by POORVADITYA BEHRE!
       `);
